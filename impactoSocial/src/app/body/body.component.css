@@ -1,0 +1,11 @@
+#img-bg{
+    background-image: url('https://educacaoinfantil.aix.com.br/wp-content/uploads/2018/01/159301-x-maneiras-eficientes-para-trabalhar-a-diversidade-na-sala-de-aula.jpg');
+
+    min-height: 659px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    font-size: 20px;
+}
